@@ -1,6 +1,6 @@
 {
   "AWSTemplateFormatVersion": "2010-09-09",
-  "Description": "Creating two autoscaling group",
+  "Description": "Creating autoscaling group with scale-up nd scale-down",
   "Parameters": {
     "VpcId": {
       "Type": "AWS::EC2::VPC::Id",
